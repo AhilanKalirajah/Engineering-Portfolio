@@ -136,11 +136,11 @@ p {
 }
 
 h1 {
-  max-width: 680px;
+  max-width: 620px;
   margin-bottom: 24px;
-  font-size: clamp(3rem, 5.2vw, 5.15rem);
-  line-height: 1.02;
-  letter-spacing: -0.055em;
+  font-size: clamp(2.8rem, 3.6vw, 4.5rem);
+  line-height: 1.05;
+  letter-spacing: -0.05em;
 }
 
 h2 {
