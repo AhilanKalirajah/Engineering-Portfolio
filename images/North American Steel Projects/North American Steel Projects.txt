@@ -1,0 +1,80 @@
+# Safety Clip Development
+
+## Project Summary
+
+Developed a production-ready replacement safety clip by reverse engineering an existing shop-floor component into a fully parametric SolidWorks model.
+
+The project included prototype development using 3D printing to validate fit and function before releasing the design for production.
+
+---
+
+## Project Objective
+
+A replacement safety clip was required for an existing racking system, but no usable CAD model existed.
+
+The objective was to accurately recreate the component in SolidWorks, verify the design through physical prototypes, and produce engineering documentation for manufacturing.
+
+---
+
+## My Responsibilities
+
+- Reverse engineered an existing safety clip.
+- Created a fully parametric SolidWorks model.
+- Produced manufacturing drawings.
+- Generated multiple 3D printed prototypes.
+- Verified fit and functionality on the production racking.
+- Updated the design based on prototype testing.
+- Released the final design for mass production.
+
+---
+
+## Engineering Process
+
+### 1. Reverse Engineer Existing Component
+
+An existing production safety clip was measured and analyzed to understand its geometry, spring features, bends, and overall function.
+
+---
+
+### 2. Create CAD Model
+
+The component was recreated as a fully parametric SolidWorks sheet metal model that accurately reflected the production part.
+
+---
+
+### 3. Prototype Validation
+
+Multiple prototypes were produced using a 3D printer and test-fitted on the production racking to verify:
+
+- Fit
+- Retention
+- Ease of installation
+- Functionality
+
+Necessary adjustments were incorporated before final release.
+
+---
+
+### 4. Production Release
+
+Once validated, the engineering drawing was completed and the design was approved for mass production.
+
+---
+
+## Skills Demonstrated
+
+- SolidWorks
+- Sheet Metal Design
+- Reverse Engineering
+- Rapid Prototyping
+- 3D Printing
+- Design Validation
+- Manufacturing Drawings
+- Product Development
+- Production Support
+
+---
+
+## Outcome
+
+Successfully developed a production-ready replacement safety clip that progressed from an existing physical component through CAD modelling, prototype validation, and final manufacturing release.

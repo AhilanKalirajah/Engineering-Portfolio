@@ -1,0 +1,91 @@
+# Personal Engineering Projects
+
+## Project Summary
+
+These personal projects were completed to strengthen my CAD modelling skills, mechanical design knowledge, and understanding of manufacturing principles outside of my professional work.
+
+Each project focused on improving different aspects of mechanical engineering, including complex part modelling, assemblies, motion, and manufacturable design.
+
+---
+
+# Project 1 – Honda V8 Engine
+
+## Objective
+
+Develop a detailed 3D CAD model of a Honda V8 engine to improve proficiency with complex mechanical assemblies and advanced SolidWorks modelling techniques.
+
+## Project Overview
+
+The engine was modelled as a detailed assembly consisting of multiple interacting components, allowing me to better understand engine architecture, component relationships, and assembly design.
+
+## Skills Demonstrated
+
+- SolidWorks
+- Mechanical Assembly Design
+- Part Modelling
+- Feature-Based CAD
+- Assembly Mates
+- Mechanical Components
+- Engineering Visualization
+
+## What I Learned
+
+- Building large assemblies
+- Organizing multi-part models
+- Understanding engine component relationships
+- Managing complex CAD features
+
+---
+
+# Project 2 – Manual Can Crusher
+
+## Objective
+
+Design a manually operated can crusher that converts hand force into mechanical compression through a pivoting linkage mechanism.
+
+## Project Overview
+
+The project focused on creating a compact mechanical device capable of crushing aluminum cans while remaining simple to manufacture and assemble.
+
+The linkage geometry was designed to maximize mechanical advantage while maintaining smooth operation.
+
+## Skills Demonstrated
+
+- Mechanical Design
+- Linkage Design
+- SolidWorks
+- Mechanism Design
+- Design for Manufacturing
+- Assembly Design
+
+## Engineering Considerations
+
+- Lever geometry
+- Pivot placement
+- Mechanical advantage
+- Manufacturability
+- Ease of assembly
+- Structural simplicity
+
+## What I Learned
+
+- Designing moving mechanical systems
+- Understanding force transmission
+- Designing pivoting mechanisms
+- Creating assemblies with realistic motion
+
+---
+
+## Overall Skills Demonstrated
+
+These personal projects demonstrate my initiative to continue developing engineering skills beyond the workplace.
+
+Together they strengthened my understanding of:
+
+- 3D CAD Modelling
+- Mechanical Design
+- Assembly Design
+- Engineering Visualization
+- Design for Manufacturing
+- Mechanism Design
+- Problem Solving

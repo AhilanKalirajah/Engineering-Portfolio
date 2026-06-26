@@ -1,0 +1,115 @@
+# Paint Line Beam Lift System
+
+## Project Summary
+
+Designed the foundation for a lifting solution to reduce manual handling of heavy paint line beams after workers experienced repetitive lifting injuries.
+
+The first phase of the project involved recreating the entire paint line in AutoCAD to accurately understand the existing equipment, available space, elevations, and physical constraints before any lifting system concepts could be developed.
+
+---
+
+## The Problem
+
+Operators were manually lifting heavy beams during the paint process, creating an ergonomic risk and increasing the potential for workplace injuries.
+
+The objective was to understand the existing production line and create an accurate engineering layout that could later be used to design a safer lifting solution.
+
+---
+
+## My Responsibilities
+
+- Surveyed the existing paint line.
+- Created detailed AutoCAD layouts from field measurements.
+- Produced plan, front, side, and cross-sectional views.
+- Documented structural members, conveyor elevations, cooling tunnel, washer, and surrounding equipment.
+- Identified design constraints that would influence the future lift design.
+- Created engineering documentation that served as the foundation for the lifting system concept.
+
+---
+
+## Engineering Process
+
+### 1. Existing Facility Review
+
+The existing paint line was documented to understand how material moved through the system and where manual lifting occurred.
+
+Image:
+Original Layout.jpg
+
+---
+
+### 2. Develop Accurate Plant Layout
+
+Using AutoCAD, the paint line was recreated to produce an accurate engineering reference.
+
+This established:
+
+- Equipment locations
+- Conveyor elevations
+- Structural supports
+- Available floor space
+- Clearance around existing equipment
+
+Images:
+
+Modified Layout showing actual top view.jpg
+
+Modified Layout Showing Front View.jpg
+
+Modified Layout Showing Side View.jpg
+
+---
+
+### 3. Cross Section Development
+
+Cross-sectional views were created to understand vertical clearances and identify where a lifting device could potentially be installed without interfering with existing equipment.
+
+Image:
+
+Modified Layout Showing Cross Sectional View.jpg
+
+---
+
+### 4. Simulate Beam Position
+
+The beam was added to the cross-sectional model to evaluate its relationship with the conveyor, structure, and cooling tunnel.
+
+This helped identify possible lifting paths and installation constraints.
+
+Image:
+
+Cross Sectional View with Beam On Line.jpg
+
+---
+
+## Engineering Skills Demonstrated
+
+- AutoCAD
+- Industrial Plant Layout
+- Engineering Documentation
+- Layout Planning
+- Cross-Section Development
+- Manufacturing Support
+- Problem Solving
+- Design Planning
+- Workplace Safety Considerations
+
+---
+
+## Key Engineering Considerations
+
+During the layout process, the following constraints were identified:
+
+- Existing production equipment could not be relocated.
+- Structural steel limited possible mounting locations.
+- Conveyor elevations had to remain unchanged.
+- Access for operators and maintenance personnel had to be maintained.
+- The proposed lifting system could not interfere with normal production.
+
+---
+
+## Outcome
+
+The completed AutoCAD layouts became the engineering foundation for developing a beam lifting solution aimed at reducing manual handling and improving operator safety.
+
+By accurately documenting the existing production line before beginning design work, the project reduced uncertainty and provided a reliable basis for future concept development.

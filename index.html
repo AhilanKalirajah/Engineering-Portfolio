@@ -4,7 +4,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Ahilan Kalirajah | Mechanical Engineering Portfolio</title>
-    <meta name="description" content="Mechanical engineering portfolio for Ahilan Kalirajah, featuring aerospace methods engineering, CAD, manufacturing, AutoCAD layouts, tooling, and prototype design projects.">
+    <meta name="description" content="Mechanical engineering portfolio for Ahilan Kalirajah, focused on manufacturing support, CAD design, methods engineering, tooling, layouts, and production documentation.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;650;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
@@ -15,6 +18,7 @@
       </a>
       <nav class="nav" aria-label="Primary navigation">
         <a href="#work">Work</a>
+        <a href="#process">Process</a>
         <a href="#experience">Experience</a>
         <a href="#skills">Skills</a>
         <a href="#contact">Contact</a>
@@ -25,120 +29,155 @@
       <section class="hero">
         <div class="hero-copy">
           <p class="eyebrow">Mechanical Engineer</p>
-          <h1>Mechanical Engineer specializing in manufacturing methods, CAD design, and production support.</h1>
-          <p class="lead">Explore a collection of projects showcasing my experience in CAD design, manufacturing methods, technical documentation, tooling, process improvement, and practical engineering solutions.</p>
+          <h1>Mechanical engineering for<span class="desktop-break"><br></span> manufacturing, CAD, and<span class="desktop-break"><br></span> production support.</h1>
+          <p class="lead">Explore projects demonstrating CAD design, manufacturing methods, technical documentation, tooling, process improvement, and practical engineering solutions.</p>
           <div class="hero-actions" aria-label="Portfolio actions">
             <a class="button primary" href="Portfolio.pdf">Portfolio PDF</a>
-            <a class="button ghost" href="#work">View Work</a>
+            <a class="button secondary" href="#work">View Projects</a>
           </div>
         </div>
-        <div class="hero-visual" aria-label="Selected CAD and layout work">
-          <img src="images/page-18-01.jpg" alt="SolidWorks basket holder assembly">
-          <img src="images/page-23-01.jpg" alt="AutoCAD compressor room top-view layout">
-          <img src="images/page-36-01.jpg" alt="Gasoline engine concept CAD assembly">
+        <div class="hero-visual" aria-label="Selected engineering project images">
+          <figure class="hero-card hero-card-large">
+            <img src="images/North American Steel Paint Line Layout for Racking Lift/Modified Layout showing actual top view.jpg" alt="AutoCAD top view of a paint line layout">
+            <figcaption>Plant layout and constraints</figcaption>
+          </figure>
+          <figure class="hero-card">
+            <img src="images/North American Steel AutoCAD to Solidworks conversion/Cross-Member.jpg" alt="SolidWorks model of a cross-member component">
+            <figcaption>CAD modernization</figcaption>
+          </figure>
+          <figure class="hero-card">
+            <img src="images/North American Steel Projects/W4810 Safet Clip 3D Model.jpg" alt="SolidWorks model of a production safety clip">
+            <figcaption>Prototype to production</figcaption>
+          </figure>
         </div>
       </section>
 
-      <section class="section intro">
+      <section class="profile-band" aria-label="Portfolio focus">
         <div>
-          <p class="section-kicker">Profile</p>
-          <h2>Production-minded mechanical engineering with aerospace rigor.</h2>
-        </div>
-        <p>Mechanical engineer with 3+ years of aerospace MRO experience developing repair and assembly process sheets, interpreting drawings and technical manuals, supporting technicians, and coordinating with Engineering, Quality, Supply Chain, and Maintenance.</p>
-      </section>
-
-      <section class="metrics" aria-label="Career highlights">
-        <div>
-          <strong>3+ yrs</strong>
-          <span>Aerospace MRO methods engineering</span>
+          <span>Focus</span>
+          <strong>Manufacturing support, mechanical design, CAD documentation, tooling, plant layouts, prototypes, and production problem solving.</strong>
         </div>
         <div>
-          <strong>60%</strong>
-          <span>Cost reduction achieved on fuel-injection capstone system</span>
-        </div>
-        <div>
-          <strong>75%</strong>
-          <span>Lower-cost wheelchair conversion prototype target achieved</span>
+          <span>Target Roles</span>
+          <strong>Methods Engineer, Manufacturing Engineer, Mechanical Designer, Mechanical Technologist, Production Engineer, Project Coordinator.</strong>
         </div>
       </section>
 
       <section class="section" id="work">
         <div class="section-heading">
           <div>
-            <p class="section-kicker">Selected Work</p>
-            <h2>CAD, layouts, tooling, and prototype projects.</h2>
+            <p class="section-kicker">Engineering Case Studies</p>
+            <h2>Projects organized around problems, constraints, process, and outcomes.</h2>
           </div>
           <div class="filters" role="tablist" aria-label="Project filters">
             <button class="filter active" type="button" data-filter="all" role="tab" aria-selected="true">All</button>
+            <button class="filter" type="button" data-filter="manufacturing" role="tab" aria-selected="false">Manufacturing</button>
+            <button class="filter" type="button" data-filter="layout" role="tab" aria-selected="false">Plant Layout</button>
             <button class="filter" type="button" data-filter="cad" role="tab" aria-selected="false">CAD</button>
-            <button class="filter" type="button" data-filter="drawing" role="tab" aria-selected="false">Drawings</button>
-            <button class="filter" type="button" data-filter="layout" role="tab" aria-selected="false">Layouts</button>
             <button class="filter" type="button" data-filter="prototype" role="tab" aria-selected="false">Prototype</button>
+            <button class="filter" type="button" data-filter="experience" role="tab" aria-selected="false">Experience</button>
           </div>
         </div>
         <div class="project-grid" id="projectGrid"></div>
       </section>
 
+      <section class="section process" id="process">
+        <div class="section-heading compact">
+          <div>
+            <p class="section-kicker">Process</p>
+            <h2>How I approach practical engineering problems.</h2>
+          </div>
+        </div>
+        <div class="process-steps">
+          <article>
+            <span>01</span>
+            <h3>Understand the problem</h3>
+            <p>Start with the production issue, operator need, drawing gap, or repair requirement before jumping into CAD.</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>Identify constraints</h3>
+            <p>Review available space, equipment, safety concerns, manufacturing limits, documentation, and shop-floor realities.</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>Build CAD or layout models</h3>
+            <p>Create AutoCAD layouts, SolidWorks models, drawings, or process documentation that makes the work visible and reviewable.</p>
+          </article>
+          <article>
+            <span>04</span>
+            <h3>Validate the solution</h3>
+            <p>Check dimensions, test fit with prototypes, compare against drawings, and review with production or quality stakeholders.</p>
+          </article>
+          <article>
+            <span>05</span>
+            <h3>Support implementation</h3>
+            <p>Release clear documentation and stay close to technicians, operators, and production teams as the solution moves into use.</p>
+          </article>
+        </div>
+      </section>
+
       <section class="section experience" id="experience">
-        <div class="section-heading">
+        <div class="section-heading compact">
           <div>
             <p class="section-kicker">Experience</p>
-            <h2>Engineering work across aerospace MRO and manufacturing.</h2>
+          <h2>Manufacturing support experience with controlled documentation practice.</h2>
           </div>
         </div>
         <div class="timeline">
           <article>
             <span>Dec 2022 - Oct 2024</span>
             <h3>Method Engineering Specialist, Safran Landing Systems</h3>
-            <p>Developed and revised repair and assembly process sheets, supported technicians during inspection and reassembly, interpreted engineering drawings and technical manuals, implemented engineering changes, and maintained SAP documentation control.</p>
+            <p>Developed and revised repair and assembly process sheets, supported technicians, interpreted drawings, manuals, NCRs, repair instructions, and technical documentation, coordinated with Engineering, Quality, Supply Chain, and Production, and maintained SAP documentation control.</p>
           </article>
           <article>
             <span>Jul 2021 - Jun 2022</span>
             <h3>Junior Plant Engineer, North American Steel</h3>
-            <p>Supported manufacturing and assembly operations, created SolidWorks models and AutoCAD layouts, revised documentation, and contributed to process improvement work on the shop floor.</p>
+            <p>Supported manufacturing operations through AutoCAD layouts, SolidWorks models, reverse engineering, prototype development, production drawings, and direct shop-floor collaboration.</p>
           </article>
           <article>
             <span>Jun 2020 - Jul 2021</span>
             <h3>Mechanical Technologist and CNC Programmer, Misani Custom Design</h3>
-            <p>Worked on mechanical design and CNC programming tasks, applying CAD/CAM tools to custom fabrication and manufacturing support.</p>
+            <p>Applied CAD/CAM tools to custom fabrication, CNC programming, and mechanical design support for production work.</p>
           </article>
         </div>
       </section>
 
       <section class="section skills" id="skills">
         <div>
-          <p class="section-kicker">Toolbox</p>
-          <h2>Technical skills</h2>
+          <p class="section-kicker">Skills</p>
+          <h2>Engineering tools and capabilities.</h2>
         </div>
         <div class="skill-groups">
-          <div>
-            <h3>Engineering</h3>
-            <p>Design, research, calculations, formal writing, problem solving, production documentation, drawing interpretation.</p>
-          </div>
-          <div>
-            <h3>CAD / CAM</h3>
-            <p>SolidWorks, CATIA V5, AutoCAD, Mastercam, Fusion 360.</p>
-          </div>
-          <div>
-            <h3>Systems</h3>
-            <p>SAP documentation, Microsoft Word, PowerPoint, Excel, Outlook.</p>
-          </div>
-          <div>
-            <h3>Certification</h3>
-            <p>Certified SolidWorks Professional license, Credential ID C-CPGW3EAY4M.</p>
-          </div>
+          <article>
+            <h3>CAD & Design</h3>
+            <p>SolidWorks, AutoCAD, CATIA V5, Mastercam, Fusion 360, parametric modelling, assembly design, sheet metal, weldments.</p>
+          </article>
+          <article>
+            <h3>Manufacturing</h3>
+            <p>Shop-floor support, production documentation, tooling concepts, plant layouts, rapid prototyping, design for fabrication.</p>
+          </article>
+          <article>
+            <h3>Methods Engineering</h3>
+            <p>Work instructions, repair layouts, SAP documentation control, technical documentation, process sheets, technician support.</p>
+          </article>
+          <article>
+            <h3>Quality & Problem Solving</h3>
+            <p>NCR interpretation, drawing interpretation, dimension verification, root-cause thinking, continuous improvement, stakeholder coordination.</p>
+          </article>
         </div>
       </section>
 
       <section class="contact" id="contact">
         <div>
           <p class="section-kicker">Contact</p>
-          <h2>Let's connect about mechanical design, methods engineering, or manufacturing support.</h2>
+          <h2>Let’s connect about mechanical design, methods engineering, or manufacturing support.</h2>
         </div>
         <div class="contact-actions">
           <a class="button primary" href="mailto:ahilan.kalirajah@gmail.com">Email</a>
-          <a class="button" href="tel:+16474595160">Call</a>
-          <a class="button" href="https://www.linkedin.com/in/ahilankalirajah/">LinkedIn</a>
+          <a class="button secondary" href="tel:+16474595160">Call</a>
+          <a class="button secondary" href="https://www.linkedin.com/in/ahilankalirajah/">LinkedIn</a>
+          <a class="button secondary" href="Portfolio.pdf">Portfolio PDF</a>
         </div>
       </section>
     </main>

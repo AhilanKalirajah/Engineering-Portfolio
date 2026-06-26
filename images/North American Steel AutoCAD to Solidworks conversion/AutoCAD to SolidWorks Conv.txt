@@ -1,0 +1,107 @@
+# Legacy AutoCAD to SolidWorks Conversion
+
+## Project Summary
+
+Converted legacy AutoCAD production drawings into fully parametric SolidWorks 3D models to modernize engineering documentation and create an accurate digital representation of production components.
+
+As part of the conversion process, production drawings were reviewed against existing shop-floor components to verify dimensions and incorporate manufacturing changes that had accumulated over years of production.
+
+---
+
+## Project Objective
+
+Many production parts existed only as 2D AutoCAD drawings, making future design modifications, assemblies, and documentation difficult.
+
+The objective was to create accurate SolidWorks models that reflected the current production configuration rather than simply reproducing the original drawings.
+
+---
+
+## My Responsibilities
+
+- Reviewed legacy AutoCAD manufacturing drawings.
+- Created fully parametric 3D SolidWorks models.
+- Verified critical dimensions against production documentation.
+- Updated model geometry to reflect modifications made on the shop floor.
+- Produced clean, production-ready CAD models for future engineering use.
+- Maintained design intent while improving the accuracy of the digital engineering database.
+
+---
+
+## Engineering Process
+
+### 1. Review Existing Drawings
+
+Each component began as a legacy AutoCAD production drawing.
+
+The original drawing was reviewed to understand design intent, critical dimensions, tolerances, threads, slots, and manufacturing features.
+
+Example:
+- Bottom Shaft AutoCAD Drawing
+
+---
+
+### 2. Verify Production Dimensions
+
+Rather than directly copying the drawing, dimensions were reviewed and verified to account for revisions and manufacturing changes that had been implemented over time.
+
+This ensured the new SolidWorks models accurately represented the components currently being produced.
+
+---
+
+### 3. Create Parametric SolidWorks Models
+
+Each component was rebuilt using SolidWorks feature-based modelling.
+
+Where applicable, the models included:
+
+- Extrudes
+- Revolves
+- Sheet metal features
+- Fillets
+- Thread geometry
+- Slots
+- Mounting holes
+- Bends
+
+The goal was to create editable engineering models rather than simple imported geometry.
+
+---
+
+### 4. Final Validation
+
+Completed models were reviewed against the production drawings to verify geometry and critical dimensions before being added to the engineering CAD library.
+
+---
+
+## Components Modelled
+
+Examples shown include:
+
+- Bottom Shaft
+- Cross Member
+- Front Upright Components
+- Sheet Metal Components
+- Machined Components
+
+---
+
+## Skills Demonstrated
+
+- SolidWorks
+- AutoCAD
+- 3D Parametric Modelling
+- Reverse Engineering
+- Manufacturing Drawing Interpretation
+- Sheet Metal Design
+- Mechanical Design
+- Engineering Documentation
+- Dimension Verification
+- Production Support
+
+---
+
+## Outcome
+
+Successfully converted legacy production drawings into accurate, production-ready SolidWorks models while validating dimensions and incorporating shop-floor design changes.
+
+The resulting models provided an up-to-date digital engineering library that simplified future design modifications, documentation updates, and manufacturing support.
