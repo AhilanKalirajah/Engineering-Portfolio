@@ -38,7 +38,7 @@ const projects = [
     title: "Production Component Reverse Engineering / Legacy CAD Modernization",
     category: "CAD Modernization / Reverse Engineering",
     filters: ["cad", "manufacturing"],
-    summary: "Legacy AutoCAD production drawings were converted into SolidWorks models, with dimensions verified so the new CAD reflected shop-floor changes made over years of production.",
+    summary: "AutoCAD production drawings were converted into SolidWorks models, with dimensions verified so the new CAD reflected shop-floor changes made over years of production.",
     featuredImage: "images/North American Steel AutoCAD to Solidworks conversion/Cross-Member.jpg",
     featuredAlt: "SolidWorks model of a cross-member production component",
     problem: "Production components existed mainly as 2D AutoCAD drawings, limiting future design changes, assembly review, and documentation updates.",
